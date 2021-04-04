@@ -9,3 +9,4 @@
  - ConstraintLayout, TableLayout, LayoutInflater, Thread, Room
 ---
 # 앱 실행 화면
+![KakaoTalk_20210404_183827294](https://user-images.githubusercontent.com/70185380/113504768-28041300-9575-11eb-9494-5414f0e92a33.gif)
